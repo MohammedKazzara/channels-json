@@ -2,13 +2,13 @@
     {
         "id": 1,
         "channelName": "Live 1",
-        "channelImage": "http://14.0.0.1/img/live.jpeg",
+        "channelImage": "https://ar.wikipedia.org/wiki/%D9%85%D9%84%D9%81:BeIN-Sports-Logo.svg",
         "channelLink": "http://192.168.250.71:8000/live/crystal/ab0936/21.m3u8"
     },
     {
         "id": 2,
         "channelName": "Live 2",
-        "channelImage": "http://14.0.0.1/img/live.jpeg",
+        "channelImage": "https://ar.wikipedia.org/wiki/%D9%85%D9%84%D9%81:BeIN-Sports-Logo.svg",
         "channelLink": "http://192.168.250.71:8000/live/crystal/ab0936/20.m3u8"
     },
     {
