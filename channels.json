@@ -12,6 +12,12 @@
         "channelLink": "http://192.168.250.71:8000/live/crystal/ab0936/20.m3u8"
     },
     {
+        "id": 6,
+        "channelName": "SCC",
+        "channelImage": "http://example.com/images/scc.jpg",
+        "channelLink": "http://192.168.250.71:8000/android/mmmxxx/18"
+    },
+    {
         "id": 3,
         "channelName": "BeIN 2",
         "channelImage": "http://example.com/images/bein2.jpg",
@@ -28,12 +34,6 @@
         "channelName": "BeIN 4",
         "channelImage": "http://example.com/images/bein4.jpg",
         "channelLink": "http://192.168.250.71:8000/android/mmmxxx/13"
-    },
-    {
-        "id": 6,
-        "channelName": "SCC",
-        "channelImage": "http://example.com/images/scc.jpg",
-        "channelLink": "http://192.168.250.71:8000/android/mmmxxx/18"
     },
     {
         "id": 7,
