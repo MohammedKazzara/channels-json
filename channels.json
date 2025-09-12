@@ -15,13 +15,13 @@
         "id": 3,
         "channelName": "Live 3",
         "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
-        "channelLink": "http://192.168.100.20:25461/crystal/ab0936/2"
+        "channelLink": "http://192.168.100.20:25461/crystal/ab0936/3"
     },
     {
         "id": 4,
         "channelName": "SCC 1",
         "channelImage": "https://saudipedia.com/en/saudipediaen/uploads/images/2024/11/19/thumbs/600x600/128197.jpg",
-        "channelLink": "http://192.168.100.20:25461/crystal/ab0936/4"
+        "channelLink": "http://192.168.100.20:25461/crystal/ab0936/3"
     },
     {
         "id": 5,
