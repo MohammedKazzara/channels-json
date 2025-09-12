@@ -15,19 +15,19 @@
         "id": 3,
         "channelName": "Live 3",
         "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
-        "channelLink": "http://192.168.250.71:8000/crystal/ab0936/13"
+        "channelLink": "http://192.168.100.20:25461/crystal/ab0936/2"
     },
     {
         "id": 4,
-        "channelName": "Live 4",
-        "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
-        "channelLink": "http://192.168.250.71:8000/crystal/ab0936/22"
+        "channelName": "SCC 1",
+        "channelImage": "https://saudipedia.com/en/saudipediaen/uploads/images/2024/11/19/thumbs/600x600/128197.jpg",
+        "channelLink": "http://192.168.100.20:25461/crystal/ab0936/4"
     },
     {
         "id": 5,
-        "channelName": "SCC",
+        "channelName": "SCC Extra",
         "channelImage": "https://daralhikma.org/images/e/e1/Ssc_sports.png",
-        "channelLink": "http://192.168.250.71:8000/crystal/ab0936/18"
+        "channelLink": "http://192.168.100.20:25461/crystal/ab0936/4"
     },
     {
         "id": 6,
