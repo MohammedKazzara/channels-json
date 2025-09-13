@@ -37,8 +37,8 @@
     },
     {
         "id": 11,
-        "channelName": "الجزيرة الاخبارية",
-        "channelImage": "http://example.com/images/الجزيرةالاخبارية.jpg",
+        "channelName": "Live 4",
+        "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
         "channelLink": "http://192.168.250.71:8000/crystal/ab0936/6"
     },
     {
@@ -55,8 +55,14 @@
     },
     {
         "id": 14,
+        "channelName": "الجزيرة الاخبارية",
+        "channelImage": "http://example.com/images/الجزيرةالاخبارية.jpg",
+        "channelLink": "http://192.168.250.71:8000/crystal/ab0936/7"
+    },
+    {
+        "id": 15,
         "channelName": "Syria",
         "channelImage": "http://example.com/images/syria.jpg",
-        "channelLink": "http://192.168.250.71:8000/crystal/ab0936/38"
+        "channelLink": "http://192.168.250.71:8000/crystal/ab0936/7"
     }
 ]
