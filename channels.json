@@ -41,38 +41,38 @@
     "id": 3,
     "channelName": "Bein Sport 3",
     "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
-    "channelLink": "http://192.168.100.20:25461/crystal/ab0936/3"
+    "channelLink": "http://192.168.100.20:25461/crystal/ab0936/15"
   },
   {
     "id": 301,
     "channelName": "Bein 3 B1",
     "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
-    "channelLink": "http://192.168.100.20:25461/crystal/ab0936/301"
+    "channelLink": "http://192.168.100.20:25461/crystal/ab0936/16"
   },
   {
     "id": 302,
     "channelName": "Bein 3 B2",
     "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
-    "channelLink": "http://192.168.100.20:25461/crystal/ab0936/302"
+    "channelLink": "http://192.168.100.20:25461/crystal/ab0936/17"
   },
 
   {
     "id": 4,
     "channelName": "Bein Sport 4",
     "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
-    "channelLink": "http://192.168.100.20:25461/crystal/ab0936/8"
+    "channelLink": "http://192.168.100.20:25461/crystal/ab0936/18"
   },
   {
     "id": 401,
     "channelName": "Bein 4 B1",
     "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
-    "channelLink": "http://192.168.100.20:25461/crystal/ab0936/401"
+    "channelLink": "http://192.168.100.20:25461/crystal/ab0936/19"
   },
   {
     "id": 402,
     "channelName": "Bein 4 B2",
     "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
-    "channelLink": "http://192.168.100.20:25461/crystal/ab0936/402"
+    "channelLink": "http://192.168.100.20:25461/crystal/ab0936/20"
   },
 
   {
