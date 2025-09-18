@@ -7,13 +7,13 @@
   },
   {
     "id": 101,
-    "channelName": "Bein Sport 1 B1)",
+    "channelName": "Bein 1 B1)",
     "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
     "channelLink": "http://192.168.100.20:25461/crystal/ab0936/101"
   },
   {
     "id": 102,
-    "channelName": "Bein Sport 1 B2",
+    "channelName": "Bein 1 B2",
     "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
     "channelLink": "http://192.168.100.20:25461/crystal/ab0936/102"
   },
@@ -26,13 +26,13 @@
   },
   {
     "id": 201,
-    "channelName": "Bein Sport 2 B1",
+    "channelName": "Bein 2 B1",
     "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
     "channelLink": "http://192.168.100.20:25461/crystal/ab0936/201"
   },
   {
     "id": 202,
-    "channelName": "Bein Sport 2 B2",
+    "channelName": "Bein 2 B2",
     "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
     "channelLink": "http://192.168.100.20:25461/crystal/ab0936/202"
   },
@@ -45,13 +45,13 @@
   },
   {
     "id": 301,
-    "channelName": "Bein Sport 3 (Backup 1)",
+    "channelName": "Bein 3 B1",
     "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
     "channelLink": "http://192.168.100.20:25461/crystal/ab0936/301"
   },
   {
     "id": 302,
-    "channelName": "Bein Sport 3 (Backup 2)",
+    "channelName": "Bein 3 B2",
     "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
     "channelLink": "http://192.168.100.20:25461/crystal/ab0936/302"
   },
@@ -64,13 +64,13 @@
   },
   {
     "id": 401,
-    "channelName": "Bein Sport 4 (Backup 1)",
+    "channelName": "Bein 4 B1",
     "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
     "channelLink": "http://192.168.100.20:25461/crystal/ab0936/401"
   },
   {
     "id": 402,
-    "channelName": "Bein Sport 4 (Backup 2)",
+    "channelName": "Bein 4 B2",
     "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
     "channelLink": "http://192.168.100.20:25461/crystal/ab0936/402"
   },
