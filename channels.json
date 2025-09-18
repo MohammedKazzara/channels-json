@@ -1,68 +1,121 @@
 [
-    {
-        "id": 1,
-        "channelName": "Live 1",
-        "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
-        "channelLink": "http://192.168.100.20:25461/crystal/ab0936/1"
-    },
-    {
-        "id": 2,
-        "channelName": "Live 2",
-        "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
-        "channelLink": "http://192.168.100.20:25461/crystal/ab0936/2"
-    },
-    {
-        "id": 3,
-        "channelName": "Live 3",
-        "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
-        "channelLink": "http://192.168.100.20:25461/crystal/ab0936/3"
-    },
-        {
-        "id": 16,
-        "channelName": "Live 4",
-        "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
-        "channelLink": "http://192.168.100.20:25461/crystal/ab0936/8"
-    },
-    {
-        "id": 4,
-        "channelName": "SCC 1",
-        "channelImage": "https://saudipedia.com/en/saudipediaen/uploads/images/2024/11/19/thumbs/600x600/128197.jpg",
-        "channelLink": "http://192.168.100.20:25461/crystal/ab0936/4"
-    },
-    {
-        "id": 5,
-        "channelName": "SCC Extra",
-        "channelImage": "https://saudipedia.com/en/saudipediaen/uploads/images/2024/11/19/thumbs/600x600/128197.jpg",
-        "channelLink": "http://192.168.100.20:25461/crystal/ab0936/5"
-    },
-    {
-        "id": 9,
-        "channelName": "Bein Premium",
-        "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
-        "channelLink": "http://192.168.100.20:25461/crystal/ab0936/5"
-    },
-    {
-        "id": 12,
-        "channelName": "العربية الحدث",
-        "channelImage": "http://example.com/images/العربيةالحدث.jpg",
-        "channelLink": "http://192.168.250.71:8000/crystal/ab0936/4"
-    },
-    {
-        "id": 13,
-        "channelName": "العربية مباشر",
-        "channelImage": "http://example.com/images/العربيةمباشر.jpg",
-        "channelLink": "http://192.168.250.71:8000/crystal/ab0936/5"
-    },
-    {
-        "id": 14,
-        "channelName": "الجزيرة الاخبارية",
-        "channelImage": "http://example.com/images/الجزيرةالاخبارية.jpg",
-        "channelLink": "http://192.168.250.71:8000/crystal/ab0936/7"
-    },
-    {
-        "id": 15,
-        "channelName": "Syria",
-        "channelImage": "http://example.com/images/syria.jpg",
-        "channelLink": "http://192.168.250.71:8000/crystal/ab0936/7"
-    }
+  {
+    "id": 1,
+    "channelName": "Bein Sport 1",
+    "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
+    "channelLink": "http://192.168.100.20:25461/crystal/ab0936/1"
+  },
+  {
+    "id": 101,
+    "channelName": "Bein Sport 1 (Backup 1)",
+    "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
+    "channelLink": "http://192.168.100.20:25461/crystal/ab0936/101"
+  },
+  {
+    "id": 102,
+    "channelName": "Bein Sport 1 (Backup 2)",
+    "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
+    "channelLink": "http://192.168.100.20:25461/crystal/ab0936/102"
+  },
+
+  {
+    "id": 2,
+    "channelName": "Bein Sport 2",
+    "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
+    "channelLink": "http://192.168.100.20:25461/crystal/ab0936/2"
+  },
+  {
+    "id": 201,
+    "channelName": "Bein Sport 2 (Backup 1)",
+    "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
+    "channelLink": "http://192.168.100.20:25461/crystal/ab0936/201"
+  },
+  {
+    "id": 202,
+    "channelName": "Bein Sport 2 (Backup 2)",
+    "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
+    "channelLink": "http://192.168.100.20:25461/crystal/ab0936/202"
+  },
+
+  {
+    "id": 3,
+    "channelName": "Bein Sport 3",
+    "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
+    "channelLink": "http://192.168.100.20:25461/crystal/ab0936/3"
+  },
+  {
+    "id": 301,
+    "channelName": "Bein Sport 3 (Backup 1)",
+    "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
+    "channelLink": "http://192.168.100.20:25461/crystal/ab0936/301"
+  },
+  {
+    "id": 302,
+    "channelName": "Bein Sport 3 (Backup 2)",
+    "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
+    "channelLink": "http://192.168.100.20:25461/crystal/ab0936/302"
+  },
+
+  {
+    "id": 4,
+    "channelName": "Bein Sport 4",
+    "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
+    "channelLink": "http://192.168.100.20:25461/crystal/ab0936/8"
+  },
+  {
+    "id": 401,
+    "channelName": "Bein Sport 4 (Backup 1)",
+    "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
+    "channelLink": "http://192.168.100.20:25461/crystal/ab0936/401"
+  },
+  {
+    "id": 402,
+    "channelName": "Bein Sport 4 (Backup 2)",
+    "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
+    "channelLink": "http://192.168.100.20:25461/crystal/ab0936/402"
+  },
+
+  {
+    "id": 5,
+    "channelName": "SCC 1",
+    "channelImage": "https://saudipedia.com/en/saudipediaen/uploads/images/2024/11/19/thumbs/600x600/128197.jpg",
+    "channelLink": "http://192.168.100.20:25461/crystal/ab0936/4"
+  },
+  {
+    "id": 6,
+    "channelName": "SCC Extra",
+    "channelImage": "https://saudipedia.com/en/saudipediaen/uploads/images/2024/11/19/thumbs/600x600/128197.jpg",
+    "channelLink": "http://192.168.100.20:25461/crystal/ab0936/5"
+  },
+  {
+    "id": 7,
+    "channelName": "Bein Premium",
+    "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
+    "channelLink": "http://192.168.100.20:25461/crystal/ab0936/6"
+  },
+
+  {
+    "id": 8,
+    "channelName": "العربية الحدث",
+    "channelImage": "http://example.com/images/العربيةالحدث.jpg",
+    "channelLink": "http://192.168.250.71:8000/crystal/ab0936/4"
+  },
+  {
+    "id": 9,
+    "channelName": "العربية مباشر",
+    "channelImage": "http://example.com/images/العربيةمباشر.jpg",
+    "channelLink": "http://192.168.250.71:8000/crystal/ab0936/5"
+  },
+  {
+    "id": 10,
+    "channelName": "الجزيرة الاخبارية",
+    "channelImage": "http://example.com/images/الجزيرةالاخبارية.jpg",
+    "channelLink": "http://192.168.250.71:8000/crystal/ab0936/7"
+  },
+  {
+    "id": 11,
+    "channelName": "Syria",
+    "channelImage": "http://example.com/images/syria.jpg",
+    "channelLink": "http://192.168.250.71:8000/crystal/ab0936/8"
+  }
 ]
