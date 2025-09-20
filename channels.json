@@ -9,18 +9,18 @@
     "id": 2,
     "channelName": "Bein Sport 2",
     "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
-    "channelLink": "http://192.168.100.20:25461/crystal/ab0936/11"
+    "channelLink": "http://192.168.100.20:25461/crystal/ab0936/2"
   },
   {
     "id": 3,
     "channelName": "Bein Sport 3",
     "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
-    "channelLink": "http://192.168.100.20:25461/crystal/ab0936/12"
+    "channelLink": "http://192.168.100.20:25461/crystal/ab0936/3"
   },
   {
     "id": 4,
     "channelName": "Bein Sport 4",
     "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
-    "channelLink": "http://192.168.100.20:25461/crystal/ab0936/13"
+    "channelLink": "http://192.168.100.20:25461/crystal/ab0936/4"
   }
 ]
