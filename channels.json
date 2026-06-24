@@ -4,6 +4,17 @@
     "channelName": "بث رئيسي",
     "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
     "channelLink": "http://10.0.0.20:25461/crystal/ab0936/4"
+  },
+  {
+    "id": 2,
+    "channelName": "بث احتياطي 1",
+    "channelImage": "https://example.com/backup1.png",
+    "channelLink": "http://10.0.0.21:25461/crystal/ab0936/5"
+  },
+  {
+    "id": 3,
+    "channelName": "بث احتياطي 2",
+    "channelImage": "https://example.com/backup2.png",
+    "channelLink": "http://10.0.0.22:25461/crystal/ab0936/6"
   }
-
 ]
