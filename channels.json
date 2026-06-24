@@ -8,13 +8,13 @@
   {
     "id": 2,
     "channelName": "مختلف استعارة 1",
-    "channelImage": "https://example.com/backup1.png",
+    "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
     "channelLink": "http://10.0.0.21:25461/crystal/ab0936/5"
   },
   {
     "id": 3,
     "channelName": "مختلف استعارة 2",
-    "channelImage": "https://example.com/backup2.png",
+    "channelImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bein_sport_logo.png/1920px-Bein_sport_logo.png",
     "channelLink": "http://10.0.0.22:25461/crystal/ab0936/6"
   }
 ]
